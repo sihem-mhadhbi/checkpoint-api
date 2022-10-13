@@ -1,0 +1,21 @@
+.Card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: start;
+  font-family: arial;
+  color: #ff0291;
+  height: 400px;
+  transition: 0.7s;
+  align-items: center;
+  padding: 14px 19px 0px;
+  background-color: black;
+  text-align: center;
+}
+li ul {
+  height: 100px;
+  background: linear-gradient(to left, #2d00f7, #ff0291);
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+}
